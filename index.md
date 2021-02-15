@@ -100,7 +100,7 @@
             <h4 class="motto">Subdomain Takeover Performed.</h4>
             <div class="subscribe">
                 <h5 class="info-text">
-                    Join the waiting list for the beta. We keep you posted. 
+                    Subdomain Takeover Performed. 
                 </h5>
                 <div class="row">
                     <div class="col-md-4 col-md-offset-4 col-sm6-6 col-sm-offset-3 ">
